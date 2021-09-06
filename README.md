@@ -1,2 +1,2 @@
-# Recriando-s-p-gina-inicial-do-instagram
+# Recriando a página inicial do Instagram
 Resultado de exercício desenvolvido durante bootcamp da Digital Inovation One.
